@@ -7,7 +7,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>CC0-1.0</project_license>
   <name>Boram</name>
-  <summary>Cross-platform graphical WebM converter.</summary>
+  <summary>Cross-platform graphical WebM converter</summary>
   <url type="homepage">https://github.com/Kagami/boram</url>
 
   <description>
@@ -34,4 +34,8 @@
   <releases>
     <release date="2019-07-24" version="0.5.6"/>
   </releases>
+
+  <developer id="com.github.kagami.boram">
+    <name>Kagami</name>
+  </developer>
 </component>
