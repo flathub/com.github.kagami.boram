@@ -34,4 +34,8 @@
   <releases>
     <release date="2019-07-24" version="0.5.6"/>
   </releases>
+
+  <developer id="com.github.kagami.boram">
+    <name>Kagami</name>
+  </developer>
 </component>
