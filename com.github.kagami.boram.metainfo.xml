@@ -11,6 +11,7 @@
   <url type="homepage">https://github.com/Kagami/boram</url>
 
   <description>
+    <p>**NOTE: This is an unnofficial wrapper.**</p>
     <p>Boram is a WebM converter that can do the following:</p>
     <ul>
       <li>Open-source, cross-platform, works on Windows, Mac and Linux</li>
@@ -22,7 +23,6 @@
       <li>Multiple encodes at once in single window</li>
       <li>Fast filters result preview, no need to go through trial and error</li>
     </ul>
-    <p>NOTE: This is an unnofficial wrapper.</p>
   </description>
 
   <screenshots>
